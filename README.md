@@ -1,5 +1,5 @@
 
-# 📱 BabeCoin Mining App (Android)
+# 📱 BabeCoin Mining App (Android) (BETA Version)
 
 Welcome to the official repository for the **BabeCoin Mining App APK** – the mobile gateway to mine and earn $BABE tokens easily from your Android device.
 
