@@ -1,5 +1,4 @@
-
-# 📱 BabeCoin Mining App (Android) (BETA Version)
+# 📱 BabeCoin Mining App (Android) – Official Release (v1.0.1)
 
 Welcome to the official repository for the **BabeCoin Mining App APK** – the mobile gateway to mine and earn $BABE tokens easily from your Android device.
 
@@ -12,10 +11,11 @@ Welcome to the official repository for the **BabeCoin Mining App APK** – the m
 
 ## 📥 Download APK
 
+> ✅ Current version: `v1.0.1` – Official stable release  
 > 🚨 The latest version of the APK is available in the **[Releases](../../releases)** section of this repository.
 
 - Click on the **Releases** tab above.
-- Download the latest `BabeCoin-Mining-App.apk` file.
+- Download the latest `BabeCoin-Mining-App-v1.0.1.apk` file.
 
 ## 🚀 Installation Guide
 
@@ -30,6 +30,16 @@ Welcome to the official repository for the **BabeCoin Mining App APK** – the m
 - 🪙 Wallet integration
 - 🧮 In-app conversion tracking
 - 🔔 Push notifications for mining updates
+- 🔐 Improved wallet security
+- ⏱️ Optimized background mining scheduler
+
+## 📋 Changelog
+
+### v1.0.1 – Official Stable Release
+- ✅ Major performance improvements
+- 🎨 Updated UI and smooth transitions
+- 🪙 Optimized mining engine
+- 🐞 Fixed bugs from beta version
 
 ## 🛠 Support
 
@@ -37,4 +47,4 @@ If you face any issues or bugs, please raise an [Issue](../../issues) or contact
 
 ---
 
-**Note**: This app is currently in beta. Updates and improvements will be released frequently.
+**Note**: This app is now in official release. Stay tuned for future updates and features.
