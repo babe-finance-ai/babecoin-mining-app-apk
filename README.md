@@ -1,11 +1,11 @@
-# 📱 BabeCoin Mining App (Android) – Official Release (v1.0.1)
+# 📱 BabeCoin Mining App (Android) – Official Release (v1.0.3)
 
 Welcome to the official repository for the **BabeCoin Mining App APK** – the mobile gateway to mine and earn $BABE tokens easily from your Android device.
 
 ## 🌐 Project Links
 
 - 🔗 **Website**: [https://www.babecoin.cfd](https://www.babecoin.cfd)
-- 📧 **Contact Email**: [av@babefinance.live](mailto:av@babefinance.live)
+- 📧 **Contact Email**: [av@babefinance.org](mailto:av@babefinance.org)
 - 💰 **Token**: BEP-20
 - 📜 **Contract Address**: `0x0fff41819dd5353Fe62804AA69C577BD154BE5A2`
 
