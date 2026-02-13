@@ -11,11 +11,11 @@ Welcome to the official repository for the **BabeCoin Mining App APK** – the m
 
 ## 📥 Download APK
 
-> ✅ Current version: `v1.0.1` – Official stable release  
+> ✅ Current version: `v1.0` – Official stable release  
 > 🚨 The latest version of the APK is available in the **[Releases](../../releases)** section of this repository.
 
 - Click on the **Releases** tab above.
-- Download the latest `BabeCoin-Mining-App-v1.0.1.apk` file.
+- Download the latest `BabeCoin-Mining-App-v1.0.apk` file.
 
 ## 🚀 Installation Guide
 
@@ -35,7 +35,7 @@ Welcome to the official repository for the **BabeCoin Mining App APK** – the m
 
 ## 📋 Changelog
 
-### v1.0.1 – Official Stable Release
+### v1.0 – Official Stable Release
 - ✅ Major performance improvements
 - 🎨 Updated UI and smooth transitions
 - 🪙 Optimized mining engine
